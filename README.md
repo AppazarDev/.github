@@ -2,61 +2,61 @@
 
 # Appazar
 
-### Mobil ve web ürünlerini strateji, tasarım ve mühendislikle hayata geçiriyoruz.
+### We bring mobile and web products to life through strategy, design, and engineering.
 
 **Product Strategy · UI/UX Design · Mobile Apps · Web Platforms · Admin Panels · SaaS Products**
 
 [![Website](https://img.shields.io/badge/Website-appazar.com-111111?style=for-the-badge)](https://appazar.com)
 [![Email](https://img.shields.io/badge/Email-info%40appazar.com-111111?style=for-the-badge)](mailto:info@appazar.com)
-[![Location](https://img.shields.io/badge/Location-Istanbul%2C%20Türkiye-111111?style=for-the-badge)](https://appazar.com)
+[![Location](https://img.shields.io/badge/Location-Istanbul%2C%20Turkey-111111?style=for-the-badge)](https://appazar.com)
 
 </div>
 
 ---
 
-## Biz Kimiz?
+## Who We Are
 
-**Appazar**, fikirden lansmana kadar dijital ürün geliştirme sürecini tek çatı altında yürüten bir yazılım ve ürün geliştirme ekibidir.
+**Appazar** is a software and product development team that manages the full digital product lifecycle — from idea to launch — under one roof.
 
-Mobil uygulamalar, web platformları, yönetim panelleri, SaaS ürünleri ve kurumsal dijital deneyimler geliştiriyoruz. Amacımız yalnızca çalışan yazılım üretmek değil; ölçeklenebilir, sürdürülebilir ve kullanıcıya değer üreten dijital ürünler ortaya çıkarmaktır.
-
----
-
-## Ne Yapıyoruz?
-
-### Mobil Uygulamalar
-Performanslı, kullanıcı dostu ve sürdürülebilir iOS / Android uygulamaları geliştiriyoruz.
-
-### Web Platformları
-Kurumsal web siteleri, SaaS ürünleri, operasyon panelleri ve özel iş akışı uygulamaları inşa ediyoruz.
-
-### Yönetim Panelleri & CMS
-İçerik, ürün, müşteri, operasyon ve raporlama süreçleri için yönetilebilir panel mimarileri kuruyoruz.
-
-### Ürün Ortaklığı
-Fikir, kapsam, MVP, tasarım, geliştirme, yayına alma ve iterasyon süreçlerinde ekiplerin teknik ürün ortağı gibi çalışıyoruz.
+We build mobile apps, web platforms, admin panels, SaaS products, and enterprise digital experiences. Our goal is not just to ship working software, but to deliver scalable, sustainable digital products that create real value for users.
 
 ---
 
-## Çalışma Yaklaşımımız
+## What We Do
+
+### Mobile Apps
+We develop high-performance, user-friendly, and maintainable iOS / Android applications.
+
+### Web Platforms
+We build corporate websites, SaaS products, operations dashboards, and custom workflow applications.
+
+### Admin Panels & CMS
+We design manageable panel architectures for content, product, customer, operations, and reporting workflows.
+
+### Product Partnership
+We act as a technical product partner across idea validation, scope definition, MVP, design, development, launch, and iteration.
+
+---
+
+## How We Work
 
 ```txt
-01  Keşif ve Strateji
-    Hedefi, kullanıcı ihtiyacını ve iş değerini netleştiririz.
+01  Discovery & Strategy
+    We clarify goals, user needs, and business value.
 
-02  Tasarım ve Prototipleme
-    Kullanıcı akışlarını, ekranları ve ürün deneyimini somutlaştırırız.
+02  Design & Prototyping
+    We turn user flows, screens, and product experience into tangible prototypes.
 
-03  Geliştirme ve Yayına Alma
-    Modern frontend, güçlü backend ve yönetilebilir altyapı ile ürünü canlıya taşırız.
+03  Development & Launch
+    We ship to production with modern frontends, robust backends, and manageable infrastructure.
 
-04  Ölçekleme ve İyileştirme
-    Ürünü veri, geri bildirim ve yeni ihtiyaçlara göre geliştiririz.
+04  Scale & Improve
+    We evolve the product based on data, feedback, and emerging needs.
 ```
 
 ---
 
-## Teknoloji Odağımız
+## Technology Focus
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -71,46 +71,46 @@ Fikir, kapsam, MVP, tasarım, geliştirme, yayına alma ve iterasyon süreçleri
 
 ---
 
-## Öne Çıkan Projeler
+## Featured Projects
 
-### Kur’an-ı Kerim Uygulaması
-Flutter, Firebase ve Node.js tabanlı; Arapça metin, Türkçe meal, Latinize okunuş, favoriler, kaldığın yerden devam etme, kıble pusulası ve namaz vakti desteği içeren modern mobil uygulama.
+### Quran App
+A modern mobile app built with Flutter, Firebase, and Node.js — featuring Arabic text, Turkish translation, Latin transliteration, favorites, resume reading, Qibla compass, and prayer times.
 
 ### Miarem CRM
-React, Node.js, Python, PostgreSQL ve REST API mimarisiyle geliştirilen; müşteri yönetimi, satış pipeline, görevler, projeler, ürün/stok ve operasyon süreçlerini tek panelde birleştiren CRM platformu.
+A CRM platform built with React, Node.js, Python, PostgreSQL, and REST API — unifying customer management, sales pipeline, tasks, projects, inventory, and operations in a single dashboard.
 
 ### FitCale
-Flutter ve Google Maps odağıyla geliştirilen; kalori, su tüketimi, makro besin ve aktivite takibini tek deneyimde toplayan sağlıklı yaşam mobil uygulaması.
+A wellness mobile app built with Flutter and Google Maps — combining calorie tracking, water intake, macronutrients, and activity monitoring in one experience.
 
 ---
 
-## GitHub’da Ne Paylaşıyoruz?
+## What We Share on GitHub
 
-Bu profil altında Appazar ekosisteminde kullanılan açık kaynak araçları, starter kitleri, UI bileşenlerini, entegrasyon örneklerini ve teknik deney notlarını paylaşmayı hedefliyoruz.
+Under this profile, we aim to share open-source tools, starter kits, UI components, integration examples, and technical notes used across the Appazar ecosystem.
 
-Yakında paylaşılabilecek bazı başlıklar:
+Upcoming topics we plan to publish:
 
-- Flutter mobil uygulama başlangıç şablonları
-- React / Next.js admin panel iskeletleri
-- Node.js ve Python API boilerplate yapıları
-- Firebase entegrasyon örnekleri
-- SaaS ürün mimarisi örnekleri
-- UI component ve design system parçaları
+- Flutter mobile app starter templates
+- React / Next.js admin panel scaffolds
+- Node.js and Python API boilerplates
+- Firebase integration examples
+- SaaS product architecture samples
+- UI components and design system building blocks
 
 ---
 
-## Bir Ürün Fikriniz mi Var?
+## Have a Product Idea?
 
-Fikrinizi teknik olarak netleştirmek, MVP kapsamını çıkarmak veya doğrudan geliştirme sürecine başlamak için bizimle iletişime geçebilirsiniz.
+Reach out if you want to clarify your idea technically, define an MVP scope, or jump straight into development.
 
 - Website: [appazar.com](https://appazar.com)
-- E-posta: [info@appazar.com](mailto:info@appazar.com)
-- Lokasyon: İstanbul, Türkiye
+- Email: [info@appazar.com](mailto:info@appazar.com)
+- Location: Istanbul, Turkey
 
 ---
 
 <div align="center">
 
-**Appazar — Fikirden lansmana, dijital ürün geliştirme ortağınız.**
+**Appazar — Your digital product development partner, from idea to launch.**
 
 </div>

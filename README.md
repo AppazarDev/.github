@@ -1,8 +1,14 @@
-<h1 align="center">Hey 👋 Welcome to Appazar</h1>
+<h1 align="center">Appazar</h1>
 
-<h3 align="center">We bring mobile and web products to life through strategy, design, and engineering.</h3>
+<h3 align="center">Digital product studio for mobile, web, and SaaS.</h3>
 
-**Product Strategy · UI/UX Design · Mobile Apps · Web Platforms · Admin Panels · SaaS Products**
+<p align="center">
+  <strong>Strategy · Design · Engineering · Launch · Scale</strong>
+</p>
+
+<p align="center">
+  We turn product ideas into production-ready software — from MVP to long-term growth.
+</p>
 
 ###
 
@@ -49,52 +55,62 @@
   <a href="https://github.com/appazar">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
-  <a href="https://dev.to/">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
-  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=appazar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=appazar&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=1&column=6" height="150" alt="trophy graph" />
+
+[![Mobile Apps](https://img.shields.io/badge/Mobile-Apps-111111?style=for-the-badge&logo=flutter&logoColor=white)](#what-we-build)
+[![Web Platforms](https://img.shields.io/badge/Web-Platforms-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)](#what-we-build)
+[![SaaS Products](https://img.shields.io/badge/SaaS-Products-111111?style=for-the-badge&logo=graphql&logoColor=white)](#what-we-build)
+[![Admin Panels](https://img.shields.io/badge/Admin-Panels-111111?style=for-the-badge&logo=react&logoColor=61DAFB)](#what-we-build)
+
 </div>
-
-###
-
-<!-- Pac-Man graph: requires an Appazar GitHub profile repo (appazar/appazar) and the pacman workflow on the output branch -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/appazar/appazar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/appazar/appazar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/appazar/appazar/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 ---
 
 ## Who We Are
 
-**Appazar** is a software and product development team that manages the full digital product lifecycle — from idea to launch — under one roof.
+**Appazar** is a product-focused software studio based in Istanbul, Turkey.
 
-We build mobile apps, web platforms, admin panels, SaaS products, and enterprise digital experiences. Our goal is not just to ship working software, but to deliver scalable, sustainable digital products that create real value for users.
+We help founders, teams, and businesses design, build, and launch digital products that are not only functional, but scalable, maintainable, and ready for real-world use.
+
+We work across the full product lifecycle:
+
+- Product strategy and scope definition
+- UI/UX design and prototyping
+- Mobile and web engineering
+- Backend, API, and infrastructure setup
+- Launch support and post-release iteration
 
 ---
 
-## What We Do
+## Why Appazar
+
+| Strength | What it means for you |
+|---|---|
+| **End-to-end delivery** | One team from idea to launch — no handoff chaos |
+| **Product-first mindset** | We build for users, business goals, and long-term growth |
+| **Modern stack** | Flutter, React, Next.js, Node.js, Python, Firebase, PostgreSQL, AWS |
+| **MVP to scale** | Fast first release, then architecture that can grow with you |
+| **Clear communication** | Transparent scope, milestones, and technical decisions |
+
+---
+
+## What We Build
 
 ### Mobile Apps
-We develop high-performance, user-friendly, and maintainable iOS / Android applications.
+Native-quality iOS and Android experiences with Flutter — optimized for performance, usability, and maintainability.
 
 ### Web Platforms
-We build corporate websites, SaaS products, operations dashboards, and custom workflow applications.
+Corporate websites, customer-facing platforms, SaaS products, and custom business applications.
 
 ### Admin Panels & CMS
-We design manageable panel architectures for content, product, customer, operations, and reporting workflows.
+Operational dashboards for content, products, customers, reporting, and internal workflows.
 
 ### Product Partnership
-We act as a technical product partner across idea validation, scope definition, MVP, design, development, launch, and iteration.
+We work as your technical product partner across discovery, MVP planning, design, development, launch, and iteration.
 
 ---
 
@@ -102,16 +118,16 @@ We act as a technical product partner across idea validation, scope definition, 
 
 ```txt
 01  Discovery & Strategy
-    We clarify goals, user needs, and business value.
+    Define the problem, target users, business value, and MVP scope.
 
 02  Design & Prototyping
-    We turn user flows, screens, and product experience into tangible prototypes.
+    Shape user flows, screens, and product experience before development.
 
-03  Development & Launch
-    We ship to production with modern frontends, robust backends, and manageable infrastructure.
+03  Build & Launch
+    Deliver with modern frontend, reliable backend, and production-ready infrastructure.
 
-04  Scale & Improve
-    We evolve the product based on data, feedback, and emerging needs.
+04  Measure & Improve
+    Refine the product using feedback, analytics, and evolving business needs.
 ```
 
 ---
@@ -120,13 +136,17 @@ We act as a technical product partner across idea validation, scope definition, 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
 ---
@@ -134,43 +154,53 @@ We act as a technical product partner across idea validation, scope definition, 
 ## Featured Projects
 
 ### Quran App
-A modern mobile app built with Flutter, Firebase, and Node.js — featuring Arabic text, Turkish translation, Latin transliteration, favorites, resume reading, Qibla compass, and prayer times.
+**Flutter · Firebase · Node.js**
+
+A modern mobile experience with Arabic text, Turkish translation, Latin transliteration, favorites, resume reading, Qibla compass, and prayer times.
 
 ### Miarem CRM
-A CRM platform built with React, Node.js, Python, PostgreSQL, and REST API — unifying customer management, sales pipeline, tasks, projects, inventory, and operations in a single dashboard.
+**React · Node.js · Python · PostgreSQL · REST API**
+
+A unified CRM for customer management, sales pipeline, tasks, projects, inventory, and daily operations.
 
 ### FitCale
-A wellness mobile app built with Flutter and Google Maps — combining calorie tracking, water intake, macronutrients, and activity monitoring in one experience.
+**Flutter · Google Maps**
+
+A wellness app combining calorie tracking, water intake, macronutrients, and activity monitoring in one product.
 
 ---
 
-## What We Share on GitHub
+## Open Source & GitHub
 
-Under this profile, we aim to share open-source tools, starter kits, UI components, integration examples, and technical notes used across the Appazar ecosystem.
+This profile is where we plan to publish tools and resources from the Appazar ecosystem:
 
-Upcoming topics we plan to publish:
-
-- Flutter mobile app starter templates
+- Flutter mobile starter templates
 - React / Next.js admin panel scaffolds
 - Node.js and Python API boilerplates
 - Firebase integration examples
-- SaaS product architecture samples
+- SaaS architecture references
 - UI components and design system building blocks
 
 ---
 
-## Have a Product Idea?
+## Let's Build
 
-Reach out if you want to clarify your idea technically, define an MVP scope, or jump straight into development.
+Have an idea, MVP scope, or product that needs engineering?
 
-- Website: [appazar.com](https://appazar.com)
-- Email: [info@appazar.com](mailto:info@appazar.com)
-- Location: Istanbul, Turkey
+**We can help you move from concept to launch.**
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Visit-appazar.com-111111?style=for-the-badge)](https://appazar.com)
+[![Email](https://img.shields.io/badge/Contact-info@appazar.com-EA4335?style=for-the-badge)](mailto:info@appazar.com)
+[![Location](https://img.shields.io/badge/Location-Istanbul%2C%20Turkey-0077B5?style=for-the-badge)](https://appazar.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-**Appazar — Your digital product development partner, from idea to launch.**
+**Appazar — Build products that last.**
 
 </div>
